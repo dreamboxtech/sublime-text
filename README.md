@@ -1,3 +1,3 @@
 # sublime-text
 
-### Repo will contain sublime text tutorial files
+### Code allows you to supply input into your sublime text when you run your Python code.
